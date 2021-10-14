@@ -9,7 +9,7 @@
          "title":"Night Of Skeleton",
          "volume":"9",
          "groups":{
-            "<Berserk>":"/proxy/api/imgur/chapter/B2msiaC/"
+            "Berserk":"/proxy/api/imgur/chapter/B2msiaC/"
          },
          "last_updated":"1616368746"
       }
