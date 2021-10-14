@@ -1,6 +1,6 @@
 {
   "title": "Berserk",
-  "description": "@BerserkTempatSinggah",
+  "description": "aku bakal lanjutin manga berserk di sini ya, dan untuk cari info update join discord tempat singgah ya ^_^",
   "artist": "Kentaro Miura",
   "author": "Kentaro Miura",
   "cover": "https://i.imgur.com/55WlD67.jpeg",
@@ -12,6 +12,14 @@
         "TempatSinggah": "/proxy/api/imgur/chapter/B2msiaC/"
       },
       "last_updated": "1616368746"
-    }
+    },
   }
 }
+   "038": {
+      "title": "Start Of The Everlasting Night",
+      "volume": "09",
+      "groups": {
+        "TempatSinggah": "/proxy/api/imgur/chapter/WDFEELM/"
+      },
+      "last_updated": "1616368746"
+    }
