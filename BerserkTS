@@ -1,6 +1,6 @@
 {
   "title": "Berserk",
-  "description": "@BerserkTempatSinggah",
+  "description": "Berserk adalah serial manga Jepang yang ditulis dan diilustrasikan oleh Kentaro Miura. Terletak di dunia fantasi gelap yang terinspirasi Eropa abad pertengahan, cerita berpusat pada karakter Guts, seorang tentara bayaran tunggal, dan Griffith, pemimpin band tentara bayaran yang disebut Band of the Hawk.",
   "artist": "Kentaro Miura",
   "author": "Kentaro Miura",
   "cover": "https://i.imgur.com/55WlD67.jpeg",
@@ -9,7 +9,7 @@
       "title": "Knight Of Skeleton",
       "volume": "09",
       "groups": {
-        "TempatSinggah": "/proxy/api/imgur/chapter/B2msiaC/"
+        "TSXSeinen": "/proxy/api/imgur/chapter/B2msiaC/"
       },
       "last_updated": "1616368746"
     },
@@ -17,7 +17,7 @@
       "title": "Start Of The Everlasting Night",
       "volume": "09",
       "groups": {
-        "TempatSinggah": "/proxy/api/imgur/chapter/WDFEELM/"
+        "TSXSeinen": "/proxy/api/imgur/chapter/WDFEELM/"
       },
       "last_updated": "1616368746"
     },  
@@ -25,7 +25,7 @@
       "title": "The Fallen Hawk",
       "volume": "09",
       "groups": {
-        "TempatSinggah": "/proxy/api/imgur/chapter/px40Wpe/"
+        "TSXSeinen": "/proxy/api/imgur/chapter/px40Wpe/"
       },
       "last_updated": "1616368746"
     },  
@@ -33,7 +33,15 @@
       "title": "Demise Of A Dream",
       "volume": "09",
       "groups": {
-        "TempatSinggah": "/proxy/api/imgur/chapter/Xw6rhyS/"
+        "TSXSeinen": "/proxy/api/imgur/chapter/Xw6rhyS/"
+      },
+      "last_updated": "1616368746"
+    },  
+    "041": {
+      "title": "Arms Tournament",
+      "volume": "09",
+      "groups": {
+        "TSXSeinen": "/proxy/api/imgur/chapter/kCwwY7a/"
       },
       "last_updated": "1616368746"
     }
